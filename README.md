@@ -3,7 +3,7 @@
 ## Indice dei Contenuti
 1. [Introduzione](#introduzione)
 2. [Accesso al Notebook di Live Coding su Google Colab](#accesso-al-notebook-di-live-coding-su-google-colab)
-3. [Caratteristiche del Notebook](#caratteristiche-del-notebook)
+3. [Sezioni del Notebook](#sezioni-del-notebook)
 4. [Licenza](#licenza)
 
 ## Introduzione
@@ -22,7 +22,7 @@ Per accedere al notebook di live coding su Google Colab, segui i passaggi seguen
 
 **Nota**: Assicurati di essere connesso a un account Google per poter salvare una copia del notebook. 
 
-### Sezioni del Notebook
+## Sezioni del Notebook
 
 1. **Importazione delle Librerie**
 2. **Caricamento dei Dati**
